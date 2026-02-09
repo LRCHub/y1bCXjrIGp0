@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Over Time",
+  "base_artist": "ORIO",
+  "createdAt": "2026-02-09T09:02:43.533654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "ORIO",
+      "has_synced": true,
+      "path": "select/01_Over_Time_ORIO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mind Over Time",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/02_Mind_Over_Time_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mind Over Time",
+      "artist": "Interpol",
+      "has_synced": false,
+      "path": "select/03_Mind_Over_Time_Interpol.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Distance over Time",
+      "artist": "Dead Lord",
+      "has_synced": false,
+      "path": "select/04_Distance_over_Time_Dead_Lord.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "ORIO[天音かなた×常闇トワ]",
+      "has_synced": true,
+      "path": "select/05_Over_Time_ORIO[天音かなた×常闇トワ].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over Time (Instrumental)",
+      "artist": "ORIO[天音かなた×常闇トワ]",
+      "has_synced": true,
+      "path": "select/06_Over_Time_(Instrumental)_ORIO[天音かなた×常闇トワ].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Senses Working Over Time",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/07_Senses_Working_Over_Time_XTC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cryin' Over Time",
+      "artist": "CASE",
+      "has_synced": false,
+      "path": "select/08_Cryin'_Over_Time_CASE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Think It Over Time",
+      "artist": "Robert Earl Keen",
+      "has_synced": false,
+      "path": "select/09_Think_It_Over_Time_Robert_Earl_Keen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strenght Over Time",
+      "artist": "Sunstorm(Feat Joe Lynn Turner)",
+      "has_synced": true,
+      "path": "select/10_Strenght_Over_Time_Sunstorm(Feat_Joe_Lynn_Turner).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hang Over Time",
+      "artist": "Ida Corr",
+      "has_synced": false,
+      "path": "select/11_Hang_Over_Time_Ida_Corr.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "over time",
+      "artist": "Tyoz",
+      "has_synced": true,
+      "path": "select/12_over_time_Tyoz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/13_Over_Time_天音かなた.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "天音かなた・常闇トワ",
+      "has_synced": true,
+      "path": "select/14_Over_Time_天音かなた・常闇トワ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Calling Over Time",
+      "artist": "Edith Frost",
+      "has_synced": false,
+      "path": "select/15_Calling_Over_Time_Edith_Frost.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mind Over Time (Bonus Track)",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/16_Mind_Over_Time_(Bonus_Track)_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Fear Only That My Rage Will Fade Over Time",
+      "artist": "Harm",
+      "has_synced": false,
+      "path": "select/17_I_Fear_Only_That_My_Rage_Will_Fade_Over_Time_Harm.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "ORIO (天音かなた & 常闇トワ)",
+      "has_synced": true,
+      "path": "select/18_Over_Time_ORIO_(天音かなた_&_常闇トワ).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Over Time",
+      "artist": "Mysie",
+      "has_synced": true,
+      "path": "select/19_Over_Time_Mysie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over Time",
+      "artist": "ORIO",
+      "has_synced": false,
+      "path": "select/pl_01_Over_Time_ORIO.txt"
+    }
+  ]
+}
